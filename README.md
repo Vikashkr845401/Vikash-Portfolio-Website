@@ -51,6 +51,9 @@ VIKASH-PORTFOLIO/
 
 ---
 
+🌐 Live Website - https://vikash-portfolio-ten.vercel.app/
+🔗 [Click here to visit the live site]
+
 ## 🚀 How to Run the Project
 
 1. Download or clone the repository  
@@ -90,3 +93,4 @@ If you like this project or want to connect:
 ---
 
 ⭐ If you like this project, don’t forget to give it a star!
+
